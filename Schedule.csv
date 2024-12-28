@@ -1,0 +1,29 @@
+Week 1: Core Concepts,,,,
+Day,Topic,Time,Resources,GitHub Contribution
+Monday,"Python syntax, variables",2.5 hours (1.5+1),Python Crash Course: Chapter 1–2; Practice on HackerRank.,Create repo python-basics. Add scripts for syntax and variables.
+Tuesday,Data types and operations,2.5 hours (1+1+0.5),Automate the Boring Stuff: Chapter 1; Write simple scripts for type conversions and operations.,Push type-based examples and problem solutions.
+Wednesday,Loops: for and while,2.5 hours (1.5+1),Automate the Boring Stuff: Chapter 2; Solve loop-based problems like patterns and counters.,Add loop problem solutions with explanations in the README.
+Thursday,Conditional statements,2 hours (1+1),Python Crash Course: Chapter 3; Write scripts using if-else and nested conditions.,Push conditional statement examples.
+Friday,Functions: Basics,2.5 hours (1+1+0.5),Python Crash Course: Chapter 4; Practice reusable functions like calculating factorial.,Push function-based problems and reusable examples.
+Saturday,Revision and practice,4 hours (2+1.5+0.5),"Revise loops, conditions, and functions. Solve 5 problems on LeetCode.",Push all solutions with comments explaining logic.
+Sunday,Mini-project: Calculator,4.5 hours (2.5+2),Build a CLI calculator with loops and functions.,Upload the project with a detailed README.
+,,,,
+Week 2: Data Structures in Python,,,,
+Day,Topic,Time,Resources,GitHub Contribution
+Monday,"Lists: Basics, operations",2.5 hours (1.5+1),Python Crash Course: Chapter 5; Write scripts for list manipulations like slicing and appending.,"Push list-based problems (e.g., reversing a list)."
+Tuesday,Strings: Manipulations,2.5 hours (1.5+1),Automate the Boring Stuff: Chapter 6; Solve string problems like palindromes and substring search.,Push string problems with explanations.
+Wednesday,Dictionaries and Sets,2 hours (1+1),Python Crash Course: Chapter 6; Write dictionary operations like word frequency counting.,Add dictionary and set examples.
+Thursday,File handling: Reading/Writing,2.5 hours (1.5+1),Automate the Boring Stuff: Chapter 9; Write scripts for file parsing and logging.,Push scripts for file handling.
+Friday,Exception handling,2 hours (1+1),Python Crash Course: Chapter 7; Practice catching and handling errors.,Push exception-handling examples.
+Saturday,Revision and problem-solving,4.5 hours (2.5+2),"Revise lists, strings, dictionaries; Solve 5 problems on HackerRank.",Push solved problems and update README.
+Sunday,Mini-project: File parser,5 hours (3+2),Build a program to read and analyze a log file.,Push the mini-project with well-commented code and examples.
+,,,,
+Week 3: Advanced Python and Libraries,,,,
+Day,Topic,Time,Resources,GitHub Contribution
+Monday,OOP: Classes and methods,2.5 hours (1.5+1),Python Crash Course: Chapter 9; Write classes for simple objects like Car or Student.,Push OOP examples with detailed comments.
+Tuesday,Inheritance and Polymorphism,2.5 hours (1+1.5),"Python Crash Course: Chapter 9; Write a class hierarchy (e.g., Animal -> Dog, Cat).",Push inheritance examples and update README.
+Wednesday,Python advanced topics (decorators),2 hours (1+1),Fluent Python: Chapter 7; Implement a custom logging decorator.,Push decorator examples.
+Thursday,Generators and context managers,2.5 hours (1+1.5),Fluent Python: Chapter 8; Write generator functions for lazy loading.,Add generator examples with comments.
+Friday,pandas basics,2 hours (1+1),Python for Data Analysis: Chapter 1; Load and analyze small datasets.,Push basic pandas scripts for data manipulation.
+Saturday,Revision and problem-solving,4 hours (2+2),"Revise OOP, decorators, and pandas; Solve 5 problems on GeeksforGeeks.",Push solved problems.
+Sunday,Mini-project: Student system,5 hours (3+2),Build a simple student grading system using OOP and pandas.,Push the project with a detailed README and test cases.
